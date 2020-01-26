@@ -1,0 +1,33 @@
+
+
+Global pipeline Libraries
+
+Groovy
+
+Stages
+
+Checkout
+Build
+Test
+Code analysis
+Quality gate
+Build Docker image
+Create release
+Deploy to Kubernetes, dev namespace
+E2E tests in DEV
+Promote to QA
+Accept to QA
+Deploy to Kubernetes, QA namespace
+E2E tests in QA
+Acceptance tests
+Performance tests
+QA sign-off
+deploy to Kubernetes, staging namespace
+deploy to Kubernetes, uat namespace
+UAT sign-off
+deploy to Kubernetes, prod namespace
+
+
+deployment = new Deployment ()
+
+
