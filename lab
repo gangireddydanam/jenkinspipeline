@@ -31,3 +31,4 @@ deploy to Kubernetes, prod namespace
 deployment = new Deployment ()
 
 manual judgment--slack---yes--no
+conflict
